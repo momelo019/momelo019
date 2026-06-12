@@ -1,10 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi There👋, I'm Marcos Vinícius</h1>
+<h3 align="center">🔍 My main focus is enterprise data automation! 💻Main Technology: Power Platform</h3>
 
-  I'm Marcos Vinícius, a low-code developer.
+- ⚡ I’m currently working on **LIMS Project from the Power Plataform**
 
-  🔍 My main focus is enterprise data automation! 
-  💻Main Technology: OFFICE 365
-  ⚙️Aplications: PowerApps / PowerAutomate
+- 📄 Know about my experiences: **Chemical Technician / Programming Student**
 
 <!--
 **momelo019/momelo019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
