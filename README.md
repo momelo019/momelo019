@@ -1,6 +1,11 @@
 <h1 align="center">Hi There👋, I'm Marcos Vinícius</h1>
 <h3 align="center">🔍 My main focus is enterprise data automation! 💻Main Technology: Power Platform</h3>
 
+<h1 align="center"> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f282688a-050d-4eac-a943-dc8b8e156689" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4e8fe123-42bb-4a02-b7f4-d64a1af405c1" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cc591fa6-2d91-4bf6-a0f5-24b9c495c502" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b121777c-9953-4eba-b3ab-9fc6121d8334" /> </h1>
+
 - ⚡ I’m currently working on **LIMS Project from the Power Plataform**
 
 - 📄 Know about my experiences: **Chemical Technician / Programming Student**
