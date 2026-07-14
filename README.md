@@ -6,7 +6,7 @@
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cc591fa6-2d91-4bf6-a0f5-24b9c495c502" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b121777c-9953-4eba-b3ab-9fc6121d8334" /> </h1>
 
-- ⚡ I’m currently working on **LIMS Project with Power Plataform**
+- ⚡ I’m currently working on **LIMS Project with Power Platform**
 
 - 📄 Know about my experiences: **Chemical Technician / Programming Student**
 
